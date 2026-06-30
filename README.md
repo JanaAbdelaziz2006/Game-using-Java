@@ -14,6 +14,8 @@ Projenin interface:
 
 <img width="1025" height="1016" alt="image" src="https://github.com/user-attachments/assets/eba1e2b1-3a16-4f89-9910-7c4588eefea3" />
 <img width="1033" height="1019" alt="image" src="https://github.com/user-attachments/assets/cff921bb-307f-49c8-a502-e172c5e18b46" />
+<img width="1032" height="1010" alt="image" src="https://github.com/user-attachments/assets/808fdeca-f218-44d3-bd61-7522f4fca702" />
+
 
 
 
